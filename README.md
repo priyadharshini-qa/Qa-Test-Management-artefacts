@@ -31,7 +31,7 @@ software-testing/
 
 **Step 1:** Clone the repository
 ```bash
-git clone https://github.com/priyadharshini-qa/Qa-Test-Management-artefacts
+git clone https://github.com/priyadharshini-qa/Qa-Test-Management-artefacts.git
 ```
 
 **Step 2:** Open the project folder
@@ -58,6 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For queries or collaboration, connect via LinkedIn: [priyadharshini chinnaiyan](https://www.linkedin.com/in/priyadharshinichinnaiyan/)
+For queries or collaboration, connect via LinkedIn: [Priyadharshini](https://www.linkedin.com/in/priyadharshinichinnaiyan/)
 
                🧪 Quality first,always! 🧪
